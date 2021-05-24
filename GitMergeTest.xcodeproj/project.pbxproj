@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		BB8A772C265BEB5E00794A92 /* wcy.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8A772B265BEB5E00794A92 /* wcy.swift */; };
 		D161EF29265BE93800E20357 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D161EF28265BE93800E20357 /* AppDelegate.swift */; };
-		D161EF2B265BE93800E20357 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D161EF2A265BE93800E20357 /* SceneDelegate.swift */; };
 		D161EF2D265BE93800E20357 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D161EF2C265BE93800E20357 /* ViewController.swift */; };
 		D161EF30265BE93800E20357 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D161EF2E265BE93800E20357 /* Main.storyboard */; };
 		D161EF33265BE93800E20357 /* GitMergeTest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D161EF31265BE93800E20357 /* GitMergeTest.xcdatamodeld */; };
@@ -22,7 +21,6 @@
 		BB8A772B265BEB5E00794A92 /* wcy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wcy.swift; sourceTree = "<group>"; };
 		D161EF25265BE93800E20357 /* GitMergeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitMergeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D161EF28265BE93800E20357 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D161EF2A265BE93800E20357 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D161EF2C265BE93800E20357 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D161EF2F265BE93800E20357 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D161EF32265BE93800E20357 /* GitMergeTest.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = GitMergeTest.xcdatamodel; sourceTree = "<group>"; };
@@ -64,7 +62,6 @@
 			isa = PBXGroup;
 			children = (
 				D161EF28265BE93800E20357 /* AppDelegate.swift */,
-				D161EF2A265BE93800E20357 /* SceneDelegate.swift */,
 				D161EF2C265BE93800E20357 /* ViewController.swift */,
 				D161EF2E265BE93800E20357 /* Main.storyboard */,
 				D161EF40265BEB5E00E20357 /* CZY.swift */,
@@ -151,7 +148,6 @@
 				D161EF33265BE93800E20357 /* GitMergeTest.xcdatamodeld in Sources */,
 				D161EF41265BEB5E00E20357 /* CZY.swift in Sources */,
 				D161EF29265BE93800E20357 /* AppDelegate.swift in Sources */,
-				D161EF2B265BE93800E20357 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
