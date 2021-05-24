@@ -14,6 +14,7 @@
 		D161EF33265BE93800E20357 /* GitMergeTest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D161EF31265BE93800E20357 /* GitMergeTest.xcdatamodeld */; };
 		D161EF35265BE93A00E20357 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D161EF34265BE93A00E20357 /* Assets.xcassets */; };
 		D161EF38265BE93A00E20357 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D161EF36265BE93A00E20357 /* LaunchScreen.storyboard */; };
+		D161EF41265BEB5E00E20357 /* CZY.swift in Sources */ = {isa = PBXBuildFile; fileRef = D161EF40265BEB5E00E20357 /* CZY.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D161EF34265BE93A00E20357 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D161EF37265BE93A00E20357 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D161EF39265BE93A00E20357 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D161EF40265BEB5E00E20357 /* CZY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CZY.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				D161EF2A265BE93800E20357 /* SceneDelegate.swift */,
 				D161EF2C265BE93800E20357 /* ViewController.swift */,
 				D161EF2E265BE93800E20357 /* Main.storyboard */,
+				D161EF40265BEB5E00E20357 /* CZY.swift */,
 				D161EF34265BE93A00E20357 /* Assets.xcassets */,
 				D161EF36265BE93A00E20357 /* LaunchScreen.storyboard */,
 				D161EF39265BE93A00E20357 /* Info.plist */,
@@ -142,6 +145,7 @@
 			files = (
 				D161EF2D265BE93800E20357 /* ViewController.swift in Sources */,
 				D161EF33265BE93800E20357 /* GitMergeTest.xcdatamodeld in Sources */,
+				D161EF41265BEB5E00E20357 /* CZY.swift in Sources */,
 				D161EF29265BE93800E20357 /* AppDelegate.swift in Sources */,
 				D161EF2B265BE93800E20357 /* SceneDelegate.swift in Sources */,
 			);
